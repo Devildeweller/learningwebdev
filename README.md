@@ -6,12 +6,19 @@ This is a repository dedicated to learning web development. Whether you're a beg
 
 
 Table of Contents
+
 Getting Started
+
 Technologies
+
 Resources
+
 Contributing
+
 License
+
 Getting Started
+
 
 To get started, you will need a computer with an internet connection and some basic knowledge of HTML, CSS, and JavaScript. If you're new to web development, don't worry! This repository is designed to be beginner-friendly, and we have resources to help you get started.
 
