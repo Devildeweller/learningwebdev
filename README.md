@@ -7,6 +7,7 @@ This is a repository dedicated to learning web development. Whether you're a beg
 
 Table of Contents
 
+-------------------------
 Getting Started
 
 Technologies
@@ -15,7 +16,7 @@ Resources
 
 Contributing
 
-License
+-------------------------
 
 Getting Started
 
